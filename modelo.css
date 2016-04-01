@@ -1,0 +1,21 @@
+
+
+div {
+
+	width: 97.5%;
+	margin-top: 20px;
+	margin-left: 5px;
+	height: 100px;
+	background-color: #F5D0A9;
+	border: 6px solid #DF01D7;
+
+}
+
+h3 {
+	position: relative;
+	text-align: center;
+	background-color: white;
+	margin: 30px 30px;
+	border: 1px dashed black;
+	/*padding: 30px 30px 30px 30px;*/
+}
